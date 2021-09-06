@@ -44,12 +44,63 @@ For the school summary, obviously only Thomas High School is affected by the cor
 
 ![Top 5 Schools after Correction](/Resources/top_5_after_correction.PNG)
 
-Thomas High School remained as the second best performance based on the overall passing percentage.
+Thomas High School remained as the second best performance based on the overall passing percentage no matter of a slight decrease in the overall passing percentage.
 
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
+
+*Math Score by Grade before Correction*
+
+![Math Score by Grade before Correction](/Resources/score_by_school_math_before_correction.PNG)
+
+*Math Score by Grade after Correction*
+
+![Math Score by Grade after Correction](/Resources/score_by_school_math_after_correction.PNG)
+
+*Reading Score by Grade before Correction*
+
+![Reading Score by Grade before Correction](/Resources/score_by_school_reading_before_correction.PNG)
+
+*Reading Score by Grade after Correction*
+
+![Reading Score by Grade after Correction](/Resources/score_by_school_reading_after_correction.PNG)
+
+The math and reading scores by grade did not change, except for the ninth grade of Thomas High School, which were replaced by "NaN"s.
+
 #### Scores by school spending
+
+*Scores by school spending before correction*
+
+![Scores by school spending before correction](/Resources/scores_by_school_spending_before_correction.PNG)
+
+*Scores by school spending after correction*
+
+![Scores by school spending after correction](/Resources/scores_by_school_spending_after_correction.PNG)
+
+The scores by school spending on every student is not affected upon the updated analysis.
+
 #### Scores by school size
+
+*Scores by school size before correction*
+
+![Scores by school size before correction](/Resources/scores_by_school_size_before_correction.PNG)
+
+*Scores by school size after correction*
+
+![Scores by school size after correction](/Resources/scores_by_school_size_after_correction.PNG)
+
+The scores by school size is not affected upon the updated analysis.
+
 #### Scores by school type
+
+*Scores by school type before correction*
+
+![Scores by school type before correction](/Resources/scores_by_school_type_before_correction.PNG)
+
+*Scores by school type after correction*
+
+![Scores by school type after correction](/Resources/scores_by_school_type_after_correction.PNG)
+
+The scores by school type is not affected upon the updated analysis.
 
 ## **Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.**
