@@ -38,11 +38,11 @@ For the school summary, obviously only Thomas High School is affected by the cor
 
 *Top 5 Schools before Correction*
 
-![Top 5 Schools before Correction](/Rescources/top_5_before_correction.PNG)
+![Top 5 Schools before Correction](/Resources/top_5_before_correction.PNG)
 
 *Top 5 Schools after Correction*
 
-![Top 5 Schools after Correction](/Rescources/top_5_after_correction.PNG)
+![Top 5 Schools after Correction](/Resources/top_5_after_correction.PNG)
 
 Thomas High School remained as the second best performance based on the overall passing percentage.
 
