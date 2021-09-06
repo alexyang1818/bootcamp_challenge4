@@ -15,8 +15,13 @@ After the math and reading scores of the 461 ninth graders at Thomas High School
 ![District Summary before Correction](/Resources/district_summary_before_correction.png)
 ![District Summary after Correction](/Resources/district_summary_after_correction.png)
 
+Both the math and reading scores have dropped based on the average scores and the passing percentages.
 
-### How is the school summary affected?
+### School Summary
+![School Summary before Correction](/Resources/school_summary_before_correction.png)
+![School Summary after Correction](/Resources/school_summary_after_correction.png)
+
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
