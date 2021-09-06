@@ -47,7 +47,7 @@ For the school summary, obviously only Thomas High School is affected by the cor
 Thomas High School remained as the second best performance based on the overall passing percentage no matter of a slight decrease in the overall passing percentage.
 
 ### How does replacing the ninth-grade scores affect the following:
-#### Math and reading scores by grade
+- Math and reading scores by grade
 
 *Math Score by Grade before Correction*
 
@@ -67,7 +67,7 @@ Thomas High School remained as the second best performance based on the overall 
 
 The math and reading scores by grade did not change, except for the ninth grade of Thomas High School, which were replaced by "NaN"s.
 
-#### Scores by school spending
+- Scores by school spending
 
 *Scores by school spending before correction*
 
@@ -79,7 +79,7 @@ The math and reading scores by grade did not change, except for the ninth grade 
 
 The scores by school spending on every student is not affected upon the updated analysis.
 
-#### Scores by school size
+- Scores by school size
 
 *Scores by school size before correction*
 
@@ -91,7 +91,7 @@ The scores by school spending on every student is not affected upon the updated 
 
 The scores by school size is not affected upon the updated analysis.
 
-#### Scores by school type
+- Scores by school type
 
 *Scores by school type before correction*
 
@@ -104,3 +104,5 @@ The scores by school size is not affected upon the updated analysis.
 The scores by school type is not affected upon the updated analysis.
 
 ## **Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.**
+
+Replacing the ninth grade at Thomas High School does not change the results of this analysis. The math and reading scores analyzed against capita spending, school size, and school type remain the same upon the correction. The only change is that the score for the ninth grade at Thomas High School is "NaN", which is expected.
