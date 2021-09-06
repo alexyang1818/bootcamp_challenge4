@@ -32,8 +32,20 @@ Both the math and reading scores have dropped based on the average scores and th
 
 ![School Summary after Correction](/Resources/school_summary_after_correction.png)
 
-For the school summary, obviously only Thomas High School is affected by the correction. The average math and reading scores were not affected, but the passing percentages were reduced by ~ 30%.
-### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+For the school summary, obviously only Thomas High School is affected by the correction. Its average math score decreased by 0.07 but its average reading score increased by 0.05. The passing percentages decreased by 0.1-0.3%.
+
+### Thomas High School’s performance relative to the other schools
+
+*Top 5 Schools before Correction*
+
+![Top 5 Schools before Correction](/Rescources/top_5_before_correction.PNG)
+
+*Top 5 Schools after Correction*
+
+![Top 5 Schools after Correction](/Rescources/top_5_after_correction.PNG)
+
+Thomas High School remained as the second best performance based on the overall passing percentage.
+
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
 #### Scores by school spending
